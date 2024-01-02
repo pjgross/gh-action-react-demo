@@ -69,6 +69,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    environment: ReactDemo_Prod
     steps:
       - name: Get build artifacts
         uses: actions/download-artifact@v3
