@@ -9,8 +9,8 @@ const HELP_ITEMS = [
   },
   {
     id: 'h2',
-    title: 'What is GitHub?',
-    text: 'GitHub is a company and online offering, providing you with tons of Git-related services (e.g., cloud repositories).',
+    title: 'What is Plutora?',
+    text: 'Plutora is a SaaS product for release and environment management',
   },
   {
     id: 'h3',
